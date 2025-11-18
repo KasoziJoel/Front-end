@@ -212,15 +212,12 @@ All data is stored in browser localStorage:
 - Multi-branch management
 - Payment tracking for credit sales
 
-## 📄 License
 
-This project is created for educational purposes.
 
-## 👤 Author
-
-Golden Crop Distributors Ltd - Exam Project
+Golden Crop Distributors Ltd
 
 ---
 
 **Note:** This is a frontend-only application. All data is stored locally in the browser. For production use, integrate with a backend API.
+
 
