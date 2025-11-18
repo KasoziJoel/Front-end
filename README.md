@@ -218,6 +218,7 @@ Golden Crop Distributors Ltd
 
 ---
 
-**Note:** This is a frontend-only application. All data is stored locally in the browser. For production use, integrate with a backend API.
+
+
 
 
